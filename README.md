@@ -1,0 +1,1 @@
+# Automated-Equity-Portfolio-Management-Using-Techno-Funda-Analysis
