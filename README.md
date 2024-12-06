@@ -55,8 +55,8 @@ The research explores a dynamic framework for equity portfolio management, combi
 
 - **Fundamental Screening**: Filtered stocks with strong growth trajectories and margins.
 - **Efficient Frontier Analysis**: Identified optimal portfolios with maximum Sharpe ratios.
-- **Performance Metrics**: Achieved atleast 5 percent higher returns compared to NIFTY 100 benchmarks.
-
+- **Performance Metrics**: Achieved atleast 5 percent higher returns compared to NIFTY 100 benchmarks.<br><br>
+![Screenshot 2024-12-06 122558](https://github.com/user-attachments/assets/5d2d664c-b595-4327-9183-90ef0f633ef4)
 ---
 
 ## 🧰 Tools and Technologies
