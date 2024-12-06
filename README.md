@@ -7,6 +7,8 @@ This repository contains the Python-based implementation for **Automated Equity 
 The research explores a dynamic framework for equity portfolio management, combining **fundamental** and **technical analysis** to create and manage optimal stock portfolios. Stocks from the **NIFTY 100 index** are screened based on financial metrics, technical indicators, and optimization techniques like **Efficient Frontier** and **Monte Carlo Simulations**. The strategy automates stock selection, portfolio optimization, and trading decisions using Python, ensuring a continuous closed-loop system for real-time adjustments.
 
 ---
+## Inputs:
+[Stock_Sysytem_Folder](https://drive.google.com/drive/folders/1f9lHs4IUbcVqSl-NUQ6e-BK8Mv5WJqDV?usp=drive_link)
 
 ## 🚀 Features
 
