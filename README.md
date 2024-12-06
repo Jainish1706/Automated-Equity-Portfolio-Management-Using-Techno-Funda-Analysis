@@ -89,7 +89,6 @@ The research explores a dynamic framework for equity portfolio management, combi
 
 ## 📧 Authors
 
-- **Jigarkumar Shah** - Pandit Deendayal Energy University  
 - **Vishwas Darji** - Pandit Deendayal Energy University  
 - **Gautam Makwana** - Pandit Deendayal Energy University  
 - **Jainish Shah** - Indian Institute of Science Education and Research, Thiruvananthapuram  
