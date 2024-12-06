@@ -8,7 +8,8 @@ The research explores a dynamic framework for equity portfolio management, combi
 
 ---
 ## Inputs:
-[Stock_Sysytem_Folder](https://drive.google.com/drive/folders/1f9lHs4IUbcVqSl-NUQ6e-BK8Mv5WJqDV?usp=drive_link)
+  -[Stock_Sysytem_Folder](https://drive.google.com/drive/folders/1f9lHs4IUbcVqSl-NUQ6e-BK8Mv5WJqDV?usp=drive_link)<br>
+  -[Data_Folder](https://drive.google.com/drive/folders/1nE03PfkVWqzYKfgge29xdhjnVCJNqUMP?usp=sharing)
 
 ## 🚀 Features
 
